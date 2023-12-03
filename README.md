@@ -6,7 +6,7 @@ Physics, B.S. University of Kansas (University & Departmental Honors)
 ### Work Experience
 **Data Scientist @ Spring Venture Group (_2017 - Present_)**
 
-Serve as a primary resource for standing up new data science efforts. Defining
+- Serve as a primary resource for standing up new data science efforts. Defining
 requirements, auditing data hygiene, POC modeling, establish documentation standards, and provide reporting/visibility. Provided guidance to C-suite executives for intraday operational adjustments & budgeting. 
 
 - Train, Deploy, & Monitored Prediction Models for:
@@ -38,6 +38,7 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
 - Ported NASA's 2-Stream code from Fortran to C++.
 - Presented resulted at annual **APS** meeting in Washington D.C. (_Jan. '17_)
 - Published in American Geophysical Union & European Geosciences Union.
+
 [Publication](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024872)
 
 
@@ -48,7 +49,8 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
   - (_2013_) On-site: set up & coducted same experiment at Paul Scherrer Institute (**PSI**) in Swizterland, part of NSF 'Pixel PIRE' program.
 - Simulated hypothetical detector configurations for **CMS**'s Phase 2 Pixel Upgrade proposal.
 - Presented findings at **CERN**, **PSI**, **APS** meeting, and ~100 international teleconfrences.
-[CMS Pixel Detecor](/assets/img/pixel_detector.png)
+
+![CMS Pixel Detecor](/assets/img/pixel_detector.png)
 
 ### Skills
 - skilled
