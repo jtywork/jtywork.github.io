@@ -11,8 +11,10 @@ Supervised machine learning models, time series modeling, and non-ml modeling.
 **Programming Skills** 
 Production service design, deployment, and maintenance. Python (pandas, SKLearn, Flask/FastAPI), Unix OS’s, managing jobs and services on cloud resources like AWS(ECS, s3, CC, etc.), Databases: SQL/Postgres, C++, Fortran, ETL, Production ML Decision Models, Monitoring: Sentry, DataDog.
 
+
 ### Education
 Physics, B.S. University of Kansas (University & Departmental Honors)
+
 
 
 ### Work Experience
