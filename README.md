@@ -43,6 +43,9 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
   - Allocation of spend across various marketing avenues. 
 
 
+
+### Research Experience
+
 ![Jovian Aurora](/assets/img/aurora.jpg)
 **Space Plasma Researcher @ University of Kansas (_2017_)**
 - Simulated Jupiter's Polar Auroras to evaluate leading theories against experimental data from NASA's Juno mission.
