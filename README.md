@@ -4,7 +4,7 @@
 Physics, B.S. University of Kansas (University & Departmental Honors)
 
 ### Work Experience
-**Data Scientist @ Spring Venture Group** (_2017 - Present_)
+**Data Scientist @ Spring Venture Group (_2017 - Present_)**
 
 Serve as a primary resource for standing up new data science efforts. Defining
 requirements, auditing data hygiene, POC modeling, establish documentation standards, and provide reporting/visibility. Provided guidance to C-suite executives for intraday operational adjustments & budgeting. 
@@ -31,20 +31,21 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
   - Allocation of spend across various marketing avenues. 
 
 
-**Space Plasma Researcher @ University of Kansas** (_2017_)
+**Space Plasma Researcher @ University of Kansas (_2017_)**
 - Simulated Jupiter's Polar Auroras to evaluate leading theories against experimental data from **NASA**'s Juno mission.
 - Simulate charged particle interaction w/ Jupiter's atmosphere, magnetohydrodynamics, and resulting radiation emissions.
 - International colaboration with Physicists, Chemists, & Engineers. 
 - Ported NASA's 2-Stream code from Fortran to C++.
-- Published in American Geophysical Union & European Geosciences Union.
 - Presented resulted at annual **APS** meeting in Washington D.C. (_Jan. '17_)
+- Published in American Geophysical Union & European Geosciences Union.
+[Publication](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024872)
 
 
-**Particle Physics Detector Researcher @ University of Kansas** (_2011-2017_)
+**Particle Physics Detector Researcher @ University of Kansas (_2011-2017_)**
 (in collaboration with **CERN**'s **CMS** experiment)
 - Designed & conducted X-Ray fluorescence testing procedures as low-cost alternative to particle detector for **CMS**'s Phase 1 Pixel Upgrade.
   - assisted other universities with setting up same.
-  - (_2013_) On-site, set up & coducted same experiment at Paul Scherrer Institute (**PSI**) in Swizterland, part of NSF 'Pixel PIRE' program.
+  - (_2013_) On-site: set up & coducted same experiment at Paul Scherrer Institute (**PSI**) in Swizterland, part of NSF 'Pixel PIRE' program.
 - Simulated hypothetical detector configurations for **CMS**'s Phase 2 Pixel Upgrade proposal.
 - Presented findings at **CERN**, **PSI**, **APS** meeting, and ~100 international teleconfrences.
 
