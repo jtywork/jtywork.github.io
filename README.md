@@ -1,4 +1,4 @@
-# Data Scientist - Researcher - Developer
+# Data Scientist - Researcher
 
 ### Skills
 
