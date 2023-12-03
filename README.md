@@ -53,7 +53,7 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
 
 [Publication](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024872)
 
-![Jovian Aurora](/assets/img/aurora.png)
+![Jovian Aurora](/assets/img/aurora.jpg)
 
 
 **Particle Physics Detector Researcher @ University of Kansas (_2011-2017_)**
