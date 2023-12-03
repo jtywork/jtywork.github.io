@@ -40,6 +40,7 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
 - Published in American Geophysical Union & European Geosciences Union.
 
 [Publication](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JA024872)
+![Jovian Aurora](/assets/img/aurora.png)
 
 
 **Particle Physics Detector Researcher @ University of Kansas (_2011-2017_)**
