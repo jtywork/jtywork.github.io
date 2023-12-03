@@ -11,7 +11,7 @@ Designing protocol & executing experimentation in academic and business settings
 **Statistics & Modeling**
 Supervized machine learning models, time series modeling, and non-ml modeling.
 
-**Programming Skills:** 
+**Programming Skills** 
 Python (pandas, SKLearn, Flask/FastAPI), Unix OS’s, managing jobs and services on cloud resources like AWS(ECS, s3, CC, etc.), Databases: SQL/Postgres, C++, Fortran, ETL, Production ML Decision Models, Monitoring: Sentry, DataDog.
 
 
