@@ -48,6 +48,7 @@ requirements, auditing data hygiene, POC modeling, establish documentation stand
   - (_2013_) On-site: set up & coducted same experiment at Paul Scherrer Institute (**PSI**) in Swizterland, part of NSF 'Pixel PIRE' program.
 - Simulated hypothetical detector configurations for **CMS**'s Phase 2 Pixel Upgrade proposal.
 - Presented findings at **CERN**, **PSI**, **APS** meeting, and ~100 international teleconfrences.
+[CMS Pixel Detecor](/assets/img/pixel_detector.png)
 
 ### Skills
 - skilled
