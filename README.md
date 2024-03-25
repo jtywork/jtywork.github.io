@@ -18,7 +18,7 @@ Physics, B.S. University of Kansas (University & Departmental Honors)
 
 
 ### Work Experience
-**Data Scientist @ Spring Venture Group (_2017 - Present_)**
+**Data Scientist @ Spring Venture Group (_Mar 2017 - Dec 2023_)**
 
 - Serve as a primary resource for standing up new data science efforts. Defining
 requirements, auditing data hygiene, POC modeling, establishing documentation standards, and providing reporting/visibility. Guiding C-suite executives for intraday operational adjustments & budgeting. 
