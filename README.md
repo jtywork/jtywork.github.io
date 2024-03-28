@@ -49,6 +49,7 @@ requirements, auditing data hygiene, POC modeling, establishing documentation st
 ### Research Experience
 
 ![Jovian Aurora](/assets/img/aurora.jpg)
+
 **Space Plasma Researcher @ University of Kansas (_2017_)**
 - Simulated Jupiter's Polar Auroras to evaluate leading theories against experimental data from NASA's Juno mission.
 - Simulate charged particle interaction with Jupiter's atmosphere, magnetohydrodynamics, and resulting radiation emissions.
@@ -59,6 +60,7 @@ requirements, auditing data hygiene, POC modeling, establishing documentation st
 
 
 ![CMS Pixel Detecor](/assets/img/pixel_detector.png)
+
 **Particle Physics Detector Researcher @ University of Kansas (_2011-2017_)**
 (in collaboration with CERN's CMS experiment)
 - Designed & conducted X-ray fluorescence testing procedures as a low-cost alternative to particle detector for CMS's Phase 1 Pixel Upgrade.
