@@ -42,7 +42,7 @@ requirements, auditing data hygiene, POC modeling, establishing documentation st
 - Design & Execute Experimentation for Business Operations:
   - All above-described "Production Services"
   - Customer retention calls to decrease churn rate & improve LTV.
-  - Allocating annual marking budgets on the order of 10^7 to monthly, daily, hourly, and intrahourly budgets for optimally acquiring sales leads. 
+  - Allocating annual marketing budgets on the order of 10^7 to monthly, daily, hourly, and intra-hourly budgets for optimally acquiring sales leads. 
 
 
 
