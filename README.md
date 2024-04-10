@@ -65,6 +65,6 @@ requirements, auditing data hygiene, POC modeling, establishing documentation st
 (in collaboration with CERN's CMS experiment)
 - Designed & conducted X-ray fluorescence testing procedures as a low-cost alternative to particle detector for CMS's Phase 1 Pixel Upgrade.
   - assisted other universities with setting up the same.
-  - (_2013_) On-site: set up & coducted the same experiment at Paul Scherrer Institute (PSI) in Switzerland, part of NSF 'Pixel PIRE' program.
+  - (_2013_) On-site: set up & conducted the same experiment at Paul Scherrer Institute (PSI) in Switzerland, part of NSF 'Pixel PIRE' program.
 - Simulated hypothetical detector configurations for CMS's Phase 2 Pixel Upgrade proposal.
 - Presented findings at CERN, PSI, an APS meeting, and ~100 international teleconferences.
