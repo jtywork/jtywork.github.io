@@ -28,7 +28,7 @@ requirements, auditing data hygiene, POC modeling, establishing documentation st
   - (non-ML) Auction win likelihood modeling.
   - (ML) Auction frequency for budgeting & configuring bidding model.
   - (ML) Batch predictions of revenue for prospective lead-to-customer matches for outbound marketing.
-  - (ML) Daily business revenue expectations for given operational inputs to inform monthly and annual budgeting (~$4,000,000/month marketing budgets).
+  - (ML) Daily business revenue expectations for given operational inputs to inform monthly and annual budgeting (~$4,000,000/month).
   - (ML) Likelihood of inbound calls being answered by available agents.
 
 - Co-Design, Monitor, & Maintain Production Services:
