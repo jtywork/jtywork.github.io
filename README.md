@@ -22,6 +22,7 @@ AWS(ECS, s3, CC, etc.), Sentry, DataDog, Salesforce.
 Physics, B.S. University of Kansas (University & Departmental Honors)
 
 
+
 ### Work Experience
 **Data Scientist @ Spring Venture Group (_2017 - 2023_)**
 
