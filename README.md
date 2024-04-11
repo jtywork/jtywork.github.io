@@ -3,18 +3,23 @@
 ### Skills
 
 **Scientific Experimentation & Collaboration**
-Design protocol & executing experimentation in academic and business settings. Can effectively communicate with physicists, software developers, engineers, operators, sales associates, directors, VP's, and C-suite executives.
+Design protocol & executing experimentation in academic and business settings. Can effectively communicate with physicists, software developers, engineers, operators, sales associates, directors, VP’s, and C-suite.
 
 **Statistics & Modeling**
-Supervised machine learning models, time series modeling, and non-ml modeling.
+Supervised machine learning modeling, auction-price modeling, time-series modeling for market behavior.
 
-**Programming Skills** 
-Production service design, deployment, and maintenance. Python (pandas, SKLearn, Flask/FastAPI), Unix OS’s, managing jobs and services on cloud resources like AWS(ECS, s3, CC, etc.), Databases: SQL/Postgres, C++, Fortran, ETL, Production ML Decision Models, Monitoring: Sentry, DataDog.
+**Programming** 
+Python (pandas, Flask/FastAPI), C++, Fortran, SQL, Unix, Bash, ETL scripting.
+
+**Big Data**
+MySQL Postgres. Visualization with Tableau, matplotlib, seaborn, and bokeh.
+
+**Tools** 
+AWS(ECS, s3, CC, etc.), Sentry, DataDog, Salesforce.
 
 
 ### Education
 Physics, B.S. University of Kansas (University & Departmental Honors)
-
 
 
 ### Work Experience
